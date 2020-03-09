@@ -106,8 +106,8 @@
         $flags = 'style="display:none;"';
 
         //Deal with the email
-        $to = 'geetha.chronoinfotech@gmail.com';
-        $subject = 'Chat-In';
+        $to = 'example@gmail.com';
+        $subject = 'sample-email';
 
         $message="<table border=1>";
         $message .="<tr><th>Comments</th></tr>";
